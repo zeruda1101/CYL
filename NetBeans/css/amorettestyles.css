@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 28, 2015, 12:42:17 PM
+    Author     : Amorette
+*/
+
+body {width: 1000px;}
+header {width: 100%; background-color: #333333; color: white; text-align: center;}
+nav {width: 10%; height: 400px; background-color: #eeeeee; float: left;}
+main {width: 65%; height: 400px; overflow: auto; float:left;}
+aside {width: 25%; height: 400px; background-color: #eeeeee; float: left;}
+footer {width: 100%; background-color: #333333; text-align: center; clear: both}
